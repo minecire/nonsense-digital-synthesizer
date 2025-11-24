@@ -1,0 +1,3 @@
+[submodule "Builds/VisualStudio2022/JUCE"]
+	path = Builds/VisualStudio2022/JUCE
+	url = https://github.com/juce-framework/JUCE
